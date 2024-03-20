@@ -1,8 +1,7 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center h-full gap-10 p-24">
       <h1 className="text-3xl font-medium">
-        Velkommen til {'"'}How to sideprosjekt{'"'}
+        Hei! Tony sin tetris er dårligere en min.
       </h1>
 
       <p>
